@@ -1,0 +1,49 @@
+_repo: Principles-of-OrchestrationWith-musical-examples-drawn-from-his-own-works_33900
+_version: 0.1.0
+alternative_title:
+- Основы оркестровки
+- Osnovy orkestrovki. English
+contributor:
+  translator:
+    agent_name: Agate, Edward
+    gutenberg_agent_id: '36654'
+    url: http://www.gutenberg.org/2009/agents/36654
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rimsky-Korsakov, Nikolay
+    aliases:
+    - Rimsky-Korsakov, Nikolai
+    - Римский-Корсаков, Николай
+    birthdate: 1844
+    deathdate: 1908
+    gutenberg_agent_id: '36652'
+    url: http://www.gutenberg.org/2009/agents/36652
+  editor:
+    agent_name: Shteinberg, Maksimilian
+    aliases:
+    - Shteinberg, Maksimilian Oseevich
+    - Shteynberg, Maximilian Oseyevich
+    - Steinberg, M. O.
+    - Steinberg, Maximilian
+    - Steinberg, Maximilien
+    birthdate: 1883
+    deathdate: 1946
+    gutenberg_agent_id: '36653'
+    url: http://www.gutenberg.org/2009/agents/36653
+description: V. 1. Text. -- v. 2. Musical examples.
+gutenberg_issued: '2010-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'MT'
+- !lcsh 'Instrumentation and orchestration'
+title: Principles of Orchestration, with Musical Examples Drawn from His Own Works
+url: http://www.gutenberg.org/ebooks/33900
